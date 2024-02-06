@@ -16,6 +16,11 @@ Mac/ Unix
 ```bash
 . .venv/bin/activate
 ```
+- Transfer libs from venv to requirements.txt
+```bash
+.venv/bin/pip3 freeze > requirements.txt
+```
+
 
 # Installing pylint
 - Install Pylint lib
