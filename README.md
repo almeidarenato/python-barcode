@@ -26,3 +26,11 @@ Mac/ Unix
 ```bash
 pylint --generate-rcfile > .pylintrc
 ```
+
+# Pre-commit instalattion
+- Install pre-commit lib
+- Create config file .pylintrc
+- Install the pre-commit with:
+```bash
+    pre-commit install
+```
