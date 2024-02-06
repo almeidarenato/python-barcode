@@ -39,3 +39,8 @@ pylint --generate-rcfile > .pylintrc
 ```bash
     pre-commit install
 ```
+
+
+# BarCode Example
+
+![BarCode](./example.png)
