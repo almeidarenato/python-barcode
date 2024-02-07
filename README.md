@@ -85,3 +85,9 @@ pylint --generate-rcfile > .pylintrc
 # BarCode Example
 
 ![BarCode](./example.png)
+
+# Libs 
+- Cerberus
+- Flask 
+- PyTest
+- Virtual Env
