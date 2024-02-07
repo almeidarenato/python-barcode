@@ -32,7 +32,7 @@ Mac/ Unix
 pylint --generate-rcfile > .pylintrc
 ```
 
-# Pre-commit instalattion
+# Pre-commit installation
 - Install pre-commit lib
 - Create config file .pylintrc
 - Install the pre-commit with:
